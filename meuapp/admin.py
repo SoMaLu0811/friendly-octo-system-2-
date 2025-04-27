@@ -1,5 +1,5 @@
 from django.contrib import admin
-from meuapp.models.account import account
+from meuapp.models.account import Account
 from meuapp.models.person import Person 
 from meuapp.models.passport import Passport
 from meuapp.models.reporter import Reporter
