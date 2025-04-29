@@ -1,3 +1,4 @@
+#Modelo de registro de pessoa física
 from meuapp.models.base import basemodel
 from django.db import models
 class Person(basemodel):

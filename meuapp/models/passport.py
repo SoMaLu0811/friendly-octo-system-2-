@@ -1,3 +1,4 @@
+#Modelo de registro e configuração de Passaporte do usuário
 from meuapp.models.base import basemodel
 from meuapp.models.person import Person
 from django.db import models

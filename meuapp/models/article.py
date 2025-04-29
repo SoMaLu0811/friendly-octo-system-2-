@@ -1,3 +1,4 @@
+#Modelo de registro e configuração de artigos publicados no site
 from meuapp.models.base import basemodel
 from django.db import models
 from meuapp.models.reporter import Reporter

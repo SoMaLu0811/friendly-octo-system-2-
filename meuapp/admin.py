@@ -1,3 +1,4 @@
+#Registro dos modelos usados na administração do servidor
 from django.contrib import admin
 from meuapp.models.account import Account
 from meuapp.models.person import Person 

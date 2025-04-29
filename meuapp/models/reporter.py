@@ -1,3 +1,4 @@
+#Modelo de registro de autor de artigos publicados no site
 from meuapp.models.base import basemodel
 from django.db import models
 class Reporter(basemodel):
