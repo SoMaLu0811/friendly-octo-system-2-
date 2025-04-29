@@ -13,3 +13,5 @@ admin.site.register(Reporter)
 admin.site.register(Article)
 admin.site.register(Magazine)
 
+
+
